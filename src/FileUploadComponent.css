@@ -1,0 +1,22 @@
+.upload-container {
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .upload-header {
+    margin-bottom: 30px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .progress-bar {
+    margin-top: 20px;
+  }
+  
+  .alert {
+    margin-top: 20px;
+  }
+  
